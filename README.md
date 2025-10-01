@@ -1,8 +1,16 @@
 # McDiscord
 
+Welcome! Here you can find the **Terms of Service** and **Privacy Policy** for MC-DC Utilities.
+
 ---
 
-## View the Terms of Service at: https://github.com/thecatthatflies/McDiscord_TOS-Privacy_Policy/blob/main/Terms%20of%20Service.md
-## View the Privacy Policy at: https://github.com/thecatthatflies/McDiscord_TOS-Privacy_Policy/blob/main/Privacy%20Policy.md
+## 📑 Documentation
 
-### Copyright (c) thecatthatflies 2025
+| File | Description |
+|------|-------------|
+| [Terms of Service](./Terms%20of%20Service.md) | Rules and conditions for using MC-DC Utilities |
+| [Privacy Policy](./Privacy%20Policy.md) | How MC-DC Utilities handles data and privacy |
+
+---
+
+© 2025 thecatthatflies
